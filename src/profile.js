@@ -4,6 +4,7 @@ const Profile = () => {
   return (
     <div className="profile">
       <h1>Ahmed Sayed Zizo</h1>
+      <h1>Mohamed</h1>
       <img src={image1} alt="" />
     </div>
   );
